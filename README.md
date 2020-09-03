@@ -1,4 +1,4 @@
-Project: Space-filling-curves
+Project: Space-filling-curves [Data Analytics, AI Search, Simulation]
 
 - **Context:** Locality preserving properties of space-filling curves have made space-filling curves a popular tool for partitioning multi-dimensional grids in parallelisation. The quality of partitions induced by space-filling curves on regular Cartesian grids has analytically been proven to be near optimal besides a constant. Comparatively, the explosion of partition opportunities available on adaptive grids has made the quality of adaptive grid partitions difficult to quantify. 
 - **Aims:** The aim for this project is to assess the quality of partitions induced by the Hilbert curve on 2:1 balanced two-dimensional adaptive grids. By measuring surface-to-volume ratios of partitions on multitudes of adaptive grids in a brute-force manner, we aim to compare our results to partitions of optimal parallel efficiency, introduced by (Zumbusch, 2000) and derive meaningful estimates for the quality of partitions induced by the Hilbert curve on adaptive grids. 
